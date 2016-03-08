@@ -1,0 +1,6 @@
+name: Pattern Lab Connector
+type: module
+description: 'Connect Drupal to a Pattern Lab Twig instance'
+package: Development
+core: 8.x
+#configure: patternlab-connector.form
